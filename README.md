@@ -1,11 +1,5 @@
 <center><h3>C</h3></center>
 <hr />
 
-C programming libraries, tutorials, and guides.
-
-These programs are meant to help others get started quicker 
-on their own projects and also help them understand certain 
-coding techniques and ideas.
-
-Do with them what you want and feel free to send updates or 
-improvements or ideas.
+C is a procedural programming language. It was initially developed by Dennis Ritchie between 1969 and 1973. It was mainly developed as a system programming language to write an operating system. The main features of C language include low-level access to memory, a simple set of keywords, and clean style, these features make C language suitable for system programmings like an operating system or compiler development.
+Many later languages have borrowed syntax/features directly or indirectly from C language. Like syntax of Java, PHP, JavaScript and many other languages are mainly based on C language. C++ is nearly a superset of C language (There are few programs that may compile in C, but not in C++)
